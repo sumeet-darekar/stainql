@@ -16,6 +16,11 @@ Features provided by stainql are :
 
 ## Installation
 
-clone the repo.
-`git clone `
+clone the repo.  
+`git clone https://github.com/sumeet-darekar/stainql.git`  
+
+requirements.txt  
+`pip install -r requirements.txt`  
+
+
 
