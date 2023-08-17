@@ -1,4 +1,4 @@
-# stainql
+# stainql :clown_face:
 
 Testing tool for graphql api
 
@@ -36,7 +36,7 @@ requirements.txt
 `python3 graphql.py -t https://graphql-example.com/graphql -a`
 
 
-## Help Menu
+## Help Menu :cowboy_hat_face:
 `python3 graphql.py -h`  
 ```
 [ Tool for graphql Testing ] - v1.0.1  
