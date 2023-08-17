@@ -88,3 +88,5 @@ EXAMPLE USAGE :
             python3 graphql.py -t <your_target> -cq
 
 ```
+## References
+-[yeswehack](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
