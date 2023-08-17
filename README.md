@@ -27,16 +27,16 @@ requirements.txt
  #### Endpoint detection
 `python3 graphql.py -t https://graphql-example.com -f`  
 #### introspection query   
-`python3 graphql.py -t https://graphqlzero.almansi.me -i -s`  
+`python3 graphql.py -t https://graphql-example.com/graphql -i -s`  
 #### csrf  
-`python3 graphql.py -t https://graphqlzero.almansi.me -c`  
+`python3 graphql.py -t https://graphql-example.com/graphql -c`  
 #### batching
-`python3 graphql.py -t https://graphqlzero.almansi.me -q`
-#### all
-`python3 graphql.py -t https://graphqlzero.almansi.me -a`
+`python3 graphql.py -t https://graphql-example.com/graphql -q`
+#### all options together
+`python3 graphql.py -t https://graphql-example.com/graphql -a`
 
 
-## Help Section
+## Help Menu
 `python3 graphql.py -h`  
 ```
 [ Tool for graphql Testing ] - v1.0.1  
