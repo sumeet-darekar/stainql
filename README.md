@@ -36,24 +36,21 @@ requirements.txt
 `python3 graphql.py -t https://graphqlzero.almansi.me -a`
 
 
-#### Help Section
-`python3 graphql.py -h`
+## Help Section
+`python3 graphql.py -h`  
 
-![Capture](https://github.com/sumeet-darekar/stainql/assets/79735377/696be074-c098-4167-a337-ea1f47514034)
-
-
-[ Tool for graphql Testing ] - v1.0.1
-
-  -------------------------------------------------------------
-  |         _        _             _                          |          
-  |     ___| |_ __ _(_)_ __   __ _| |                         |                                         
-  |    / __| __/ _` | | '_ \ / _` | |                         |                                         
-  |    \__ | || (_| | | | | | (_| | |                         |                                         
-  |    |___/\__\__,_|_|_| |_|\__, |_|                         |                                    
-  |                             |_|                           |                                    
-  |                                                           |
-  |                                      By:- Sumeet Darekar  |
-  -------------------------------------------------------------
+[ Tool for graphql Testing ] - v1.0.1  
+  
+  -------------------------------------------------------------  
+  |         _        _             _                          |            
+  |     ___| |_ __ _(_)_ __   __ _| |                         |                                           
+  |    / __| __/ _` | | '_ \ / _` | |                         |                                           
+  |    \__ | || (_| | | | | | (_| | |                         |                                           
+  |    |___/\__\__,_|_|_| |_|\__, |_|                         |                                      
+  |                             |_|                           |                                        
+  |                                                           |  
+  |                                      By:- Sumeet Darekar  |  
+  -------------------------------------------------------------  
 
 usage: graphql.py [-h] [-i [INTROSPECTION]] [-t TARGET] [-f [FUZZ]] [-s [SHOW]] [-c [CHECKCSRF]] [-q [QUERY]] [-cq [CUSTOM_QUERY]] [-a [ALL]]
 
