@@ -2,7 +2,7 @@
 
 Testing tool for graphql api
 
-## what's stainql
+## what's stainql :grinning:
 
 Stainql is a simple graphql api testing tool. 
 
