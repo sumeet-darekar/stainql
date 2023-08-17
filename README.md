@@ -2,9 +2,9 @@
 
 Testing tool for graphql api
 
-_ Installation(#installation)
-_ what's stainql(what's stainql)
-_ Usage
+_ Installation(#installation)  
+_ what's stainql(what's stainql)  
+_ Usage  
 
 ## what's stainql
 Stainql is a simple graphql api testing tool. 
