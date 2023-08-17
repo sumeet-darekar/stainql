@@ -90,3 +90,5 @@ EXAMPLE USAGE :
 ```
 ## References
 - [yeswehack](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
+- [assetnote](https://blog.assetnote.io/2021/08/29/exploiting-graphql/)
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/GraphQL%20Injection/README.md#query-name-based-batching)
