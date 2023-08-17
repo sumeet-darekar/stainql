@@ -89,4 +89,4 @@ EXAMPLE USAGE :
 
 ```
 ## References
--[yeswehack](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
+- [yeswehack](https://blog.yeswehack.com/yeswerhackers/how-exploit-graphql-endpoint-bug-bounty/)
