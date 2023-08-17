@@ -14,3 +14,8 @@ Features provided by stainql are :
 - Query based Batching attack check.
 - Executing custom query.
 
+## Installation
+
+clone the repo.
+`git clone `
+
