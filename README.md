@@ -11,3 +11,4 @@ Features provided by stainql are :
 - CSRF(Cross-Site Request Forgery) check
 - Query based Batching attack check.
 - Executing custom query.
+
