@@ -1,0 +1,6 @@
+query {
+  post(id: 5) {
+id
+title                  
+  }
+ }
