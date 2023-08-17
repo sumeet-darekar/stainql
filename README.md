@@ -38,7 +38,7 @@ requirements.txt
 
 ## Help Section
 `python3 graphql.py -h`  
-
+```
 [ Tool for graphql Testing ] - v1.0.1  
   
   -------------------------------------------------------------  
@@ -87,3 +87,4 @@ EXAMPLE USAGE :
       --> For excuting your custom query. Can change the query from custom-query.txt
             python3 graphql.py -t <your_target> -cq
 
+```
