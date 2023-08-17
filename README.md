@@ -24,5 +24,5 @@ requirements.txt
 
 ## Usage
 
-> Endpoint detection
-> python3 graphql.py -t https://graphql-example.com -f
+ #### Endpoint detection
+`python3 graphql.py -t https://graphql-example.com -f`
