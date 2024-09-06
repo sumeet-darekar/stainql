@@ -180,7 +180,7 @@ def fuzzing_graphql():
                 response = requests.get(url=f"{args.target}/{word}", verify=False)
                 #print(response.url)
                 #print(response.status_code)
-                if(response.status_code == 200 or response.status_code==301 or response.status_code==400):
+                if(response.status_code >= 200 and response.status_code < 304 or response.status_code==400):
                     print(f"\n --> Endpoint : {word} [ Response code : {response.status_code} ]")
                     print(f"       URL : {response.url} \n\n")
                 print("\033[A\033[K", end="")
